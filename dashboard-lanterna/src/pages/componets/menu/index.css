@@ -1,0 +1,29 @@
+.logo img {
+  width: 1000px;
+  height: 550px;
+}
+
+.container {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.toolbar {
+  text-align: center;
+}
+
+.linkMenu {
+  text-decoration: none;
+  color: rgb(59, 59, 59);
+}
+
+.sideBar {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-around;
+  align-items: center;
+  padding-bottom: 20px;
+  text-decoration: none;
+  color: rgb(0, 0, 0);
+}

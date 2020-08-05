@@ -1,0 +1,48 @@
+.form {
+  display: flex;
+}
+
+.form input,
+.enunciado {
+  margin: 5px;
+  margin-left: 25px;
+}
+
+.enunciado {
+  font-weight: 600;
+  font-size: 14px;
+  line-height: 18px;
+}
+
+.form input {
+  background-color: #fff;
+  border: 1px solid #424242;
+  box-sizing: border-box;
+  width: 280px;
+  height: 40px;
+  padding: 8px;
+}
+
+.container {
+  margin-top: 80px;
+}
+
+.buttonStyle {
+  display: flex;
+  width: 176px;
+  height: 40;
+  justify-content: center;
+  color: #fff;
+  background-color: #00bd09;
+  border: none;
+  font-weight: 600;
+  font-size: 14px;
+  line-height: 24px;
+  margin-top: 40px;
+  padding: 10px;
+}
+
+.buttonPosition {
+  display: flex;
+  justify-content: flex-end;
+}

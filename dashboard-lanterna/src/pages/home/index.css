@@ -1,0 +1,19 @@
+.logo img {
+  width: 1000px;
+  height: 550px;
+}
+
+.container {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.toolbar {
+  text-align: center;
+}
+
+.link {
+  text-decoration: none;
+  color: #696969;
+}
